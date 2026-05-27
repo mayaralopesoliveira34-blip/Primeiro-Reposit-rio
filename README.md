@@ -11,4 +11,4 @@
 Este trabalho é sobre um sistema de controle de versões distribuído, abordando sua evolução e comandos iniciais. Também apresenta o versionamento em nuvem e seus principais serviços, como GitHub, BitBucket e Azure Repository
 
 ## Link da apresentação
-https://canva.link/r9e3gxxzouwxas3
+https://canva.link/w6b03ry8pwe46mz
